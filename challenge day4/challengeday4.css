@@ -1,0 +1,71 @@
+
+div{
+  display:inline-block ;
+  text-align: center;
+}
+.login{
+
+
+
+background-color: #1877f2;
+border: none;
+border-radius: 6px;
+font-size: 20px;
+line-height: 48px;
+padding: 0 16px;
+width: 332px;
+color: white;
+
+
+}
+.cna{
+  color: #FFFFFF;
+  font: 12px Helvetica,Arial,sans-serif;
+  background: #42B72A;
+  
+
+  border: none;
+  border-radius: 6px;
+  font-size: 17px;
+  line-height: 48px;
+  padding: 0 16px;
+
+
+  
+}
+.had{
+  background: #FFFFFF;
+  padding:14px 16px ;
+  width: 90%;
+  border-radius: 6px;
+  font-size: 17px;
+  padding: 14px 16px;
+  width: 330px;
+}
+
+}
+.pass{
+  font:14px Herviticat,Arial,sans-serif ;
+  color: #1877F2;
+}
+p{
+  font-family:SFProDisplay-Regular, Helvetica, Arial, sans-serif; 
+  font-size: 24px;
+  line-height: 28px;
+  width: 500px;
+  color: #1C1E21;
+}
+.div1{
+  float:right;
+  box-shadow: 1px 13px 17px 20px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+  margin-top: -12px;
+  background-color: white;
+  display: inline-block;
+  border: none;
+  padding: 20px;
+  box-sizing: border-box;
+  margin: 40px 0 0;
+  padding: 20px 0 28px;
+  width: 396px;
+  border-radius: 8px;
+}

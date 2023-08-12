@@ -1,0 +1,20 @@
+p{font-size: x-large;
+font-weight: 600;
+color: brown;
+text-align: center;}
+div{text-align: center;
+width: auto;
+height: auto;
+border:auto;
+text-align: center;}
+label{color: indigo;}
+input{
+   font-size: medium; 
+   font-weight: 300;
+   color: darkslategrey;
+
+}
+.sub{color: crimson;
+    background-color: rgb(5, 2, 6);
+    
+}
